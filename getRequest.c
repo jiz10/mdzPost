@@ -41,7 +41,7 @@ char *name = malloc(256*sizeof(char)); // nombre del archivo
 	
 	
 
-	printf ("El archivo es: %s\n",file3); 
+//	printf ("El archivo es: %s\n",file3); 
 	strcpy(name, file3); 
 	strcpy(auxFile, file3); //copia para parsear extension
 
